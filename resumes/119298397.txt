@@ -1,0 +1,85 @@
+Arian Banaee
+Curriculum Vitae
+(Last Update: 12/8/2022)
+Personal Information
+Birth: 14 September 1997 | Boroujen, Iran Address: 21 Kargar, Isfahan, Iran
+Phone: +98 937 915 5951 email: arian.banaee00@gmail.com
+Education
+2021 Bachelor of Computer Science
+Shahid Beheshti University, Tehran, Iran
+Supervisor: Dr. Mahmoud Fazlali
+GPA : 3.60 / 4 ( 17.16 / 20 )
+2016 Last 4 semesters GPA : 3.91 / 4 ( 17.71 / 20 )
+2015 High School Diploma in Mathematics and Physics
+Shahid Ejei High School, Isfahan, Iran
+Branch of NODET (National Organization for Development of Exceptional Talents)
+2011 GPA : 17.61 / 20
+Research Interests
+Machine Learning, Computer Vision, Bioinformatics, Natural Language Processing
+Awards and Honors
+• Ranked 5th in National Computer Science Graduated Entrance Exam among 10000 participants 2021
+• Honorable mention in International Collegiate Programming Contest (ICPC) Asia West Continent 2020
+• Silver medal in 2019 ICPC Asia Tehran Regional Contest 2019
+• Third place in 2019 ICPC Amirkabir Contest 2019
+• Bronze medal in 43rd Collegiate Mathematics Competition 2019
+• Ranked in the Top 1% in Nation-Wide University Entrance Exam, Iran 2015
+• Candidate Master in Codeforces, with over 1000 problems solved
+Skills
+Proficient in: Python, C/C++, Java, Git
+Familiar with: Matlab, Assembly, Maple, LaTeX, Office, Julia
+Python Libraries: TensorFlow, Keras, Pytorch, Pandas, Scikit-learn, Matplotlib, NumPy, shap
+Work Experiences
+Now Head of Independent Data Science Team
+Our team uses Machine Learning to approach different data science challenges
+Worked with companies like Chabok System, Fact Coins and Pasazh
+2020 Created state of the art and profitable solutions to each challenge
+Test Scores
+TOEFL exam score: 105 (Reading: 29, Listening: 29, Speaking: 23, Writing: 24)
+GRE exam score: 320 (Verbal: 153, Quant: 167)
+Selected Projects
+2022 Automatic acute lymphoblastic leukemia classification model using Color Histogram Features
+I developed a CNN model on color histogram features to achieve 100 Percent
+Accuracy on ALL-IDB 2 data-set.
+Supervisor: Dr. Hadieh Sajedi
+2022 Automated Intensity Modulated Radiation Therapy Treatment Planning for
+Brain Cancer
+Used 1D CNN on Overlap Volume Histogram (OVH) features to predict a patientspecify set of IMRT objectives. This set is then used by famous algorithms to
+plan a treatment without professional intervention.
+Supervisor: Dr. Iraj Abedi
+2021 Activity Recognition based on Wearable Physiological Measurements
+Using Tree-Based Feature Selection and Classic Machine Learning Algorithms,
+developed an State of the Art Ensemble Classification model.
+Supervisor: Dr. Hadieh Sajedi
+2020 Simulating a model of two excitatory and one inhibitory neuron populations
+Using LIF base neurons, showed how the model responds and adapts to different
+input and how different connections between neurons affect the model.
+Supervisor: Dr. Saeed Reza Kheradpisheh
+2019 Machine learning approach for screening of autism based on task-free fMRI
+Used graph theory to extract features. We used a data-set of Utah School of
+Medicine from ABIDE and achieved 70% accuracy.
+Supervisor: Dr. Jamal Amani Rad
+2018 Haplotype phasing with maximum parsimony
+Used graph theory to achieve exact answer in 1−(2l
+ength) of cases in reasonable
+time for real biological data.
+Supervisor: Dr. Changiz Eslahchi
+2018 TSP art
+Used a heuristic algorithm to achieve 3/2-opt in O(n
+2 ∗ log(n)) time.
+Supervisor: Dr. Ali Katanforoush
+Teaching Experiences
+Fall 2020, Fall 2019 Data Structures and Algorithms
+Fall 2020 Artificial Intelligence
+Winter 2020, Winter 2019 Design and Analysis of Algorithms
+Winter 2020 Foundation of Mathematical Analysis
+Winter 2020 Advanced Computer Programming
+Winter 2020 Fundamentals of Computing Theory
+Fall 2019 Fundamentals of Computer and Programming
+Winter 2019 Principals of Computer Systems
+Winter 2018 Fundamentals of Combinatorics
+Summer 2017 Computer Science Summer School
+Research
+Intensity Modulated Radiation Therapy Treatment planning for Brain Cancer using Hybrid Features
+Under Submission
+Automatic acute lymphoblastic leukemia classification model using Color Histogram Features
+Under Preparation
