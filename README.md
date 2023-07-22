@@ -20,25 +20,15 @@ asyncio
 
 Install the prerequisites with pip:
 
-Copy code
-
 pip install pandas aiogram openai asyncio
 
 Setting Up
 
 Clone the repository to your local machine:
 
-bash
-
-Copy code
-
 git clone https://github.com/Arian000/hermes-project-recommender.git
 
 Navigate to the project directory:
-
-bash
-
-Copy code
 
 cd hermes-project-recommender
 
@@ -51,10 +41,6 @@ Replace the placeholders <TELEGRAM-BOT-TOKEN> and <OPENAI-API-KEY> in the main.p
 Running the Bot
 
 To start the bot, run the following command:
-
-css
-
-Copy code
 
 python main.py
 
